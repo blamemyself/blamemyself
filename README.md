@@ -1,4 +1,4 @@
-# skript / c# / java
+# skript / c# / java / luau
 
 //minecraft nerd
 
